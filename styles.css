@@ -40,7 +40,7 @@ div {
 
   .top-container {
     height: 600px;
-    width: 100%;
+    width: 100vh;
     padding-top: 100px;
     position: relative;
     display: block;
@@ -83,7 +83,7 @@ div {
   }
 
   .middle-container {
-
+    width: 100vh;
     background-color: #171822;
     padding-top: 100px;
     padding-bottom: 10%;
@@ -187,6 +187,7 @@ div {
 }
 
 .bottom-container {
+    width: 100vh;
     background-color: #2A2C41;
     padding: 50px 0 20px;
 }
